@@ -9,6 +9,13 @@ project:
 website:
   site-url: https://lulliter.github.io/osservatorio/
   title: "Osservatorio Dati Sociali"
+  # BANNER (icone vedi https://icons.getbootstrap.com/)
+  announcement:
+    icon: lock # info-circle | lightbulb | megaphone | lock | cone-striped | calendar | mega | exclamation-triangle
+    dismissable: true
+    content: "Sito acessibile solo dalla intranet di Fondazione Cariparma: [https://analisidati.fondazionecrp.it/](https://analisidati.fondazionecrp.it/)"
+    type: info #info
+    position: below-navbar
   page-footer:
     left: |
       {{< fa brands creative-commons >}}
