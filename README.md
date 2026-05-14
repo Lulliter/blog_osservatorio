@@ -1,6 +1,8 @@
-# Osservatorio Dati Sociali
+❗REPO APERTO (x ora, anche se ha la copia in intranet)❗
 
-Sito Quarto per la raccolta e condivisione di dati e analisi sociali.
+# Blog dell'Osservatorio Dati Sociali
+
+Sito Quarto per la raccolta e condivisione spunti di ricerca, blog post, ecc.
 
 ## Struttura
 
@@ -32,10 +34,12 @@ git push
 ```
 
 ## GitHub Pages
-
-Servito da `docs/` su <https://lulliter.github.io/osservatorio/>
-
 Configurazione: Settings → Pages → Deploy from branch `master` `/docs`
+
+Servito in 2 modi:
+
+1) da `docs/` su <https://lulliter.github.io/blog/>
+2) copia sulla intranet 
 
 ## Dati
 
