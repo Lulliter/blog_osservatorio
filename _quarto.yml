@@ -9,13 +9,13 @@ project:
 website:
   site-url: https://lulliter.github.io/blog/
   title: "Osservatorio Dati Sociali"
-  # BANNER (icone vedi https://icons.getbootstrap.com/)
-  announcement:
-    icon: lock # info-circle | lightbulb | megaphone | lock | cone-striped | calendar | mega | exclamation-triangle
-    dismissable: true
-    content: "Sito accessibile solo dalla intranet di Fondazione Cariparma: [https://analisidati.fondazionecrp.it/](https://analisidati.fondazionecrp.it/)"
-    type: info #info
-    position: below-navbar
+  # # BANNER (icone vedi https://icons.getbootstrap.com/)
+  # announcement:
+  #   icon: info-circle # info-circle | lightbulb | megaphone | lock | cone-striped | calendar | mega | exclamation-triangle
+  #   dismissable: true
+  #   content: "Torna ai progetti dell'Osservatorio: [https://osservatorio.fondazionecrp.it/](https://osservatorio.fondazionecrp.it/)"
+  #   type: info #info
+  #   position: below-navbar
   page-footer:
     left: |
       {{< fa brands creative-commons >}}
@@ -29,6 +29,7 @@ website:
 
 # --- Structure of the navbar
   navbar:
+    search: false # no magnifier on navbar
     left:
       - href: index.qmd
         text: Home
@@ -36,11 +37,17 @@ website:
         text: Blog
       # - href: Presentazione
       #   text: presentazione/slides.qmd
+    right:
+      - text: "Progetti Osservatorio"
+        icon: database-fill-up #info-circle
+        href: https://osservatorio.fondazionecrp.it/      
+
         
 
 # --- Default options for all pages
 format:
   html:
+    # include-before-body: assets/_navbar.html # rivedere inl
     theme: flatly # alcune impostazioni, ma override color navbar in css
     css: assets/styles/custom.css
     toc: true

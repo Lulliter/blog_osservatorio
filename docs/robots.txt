@@ -1,1 +1,1 @@
-Sitemap: https://lulliter.github.io/osservatorio/sitemap.xml
+Sitemap: https://lulliter.github.io/blog/sitemap.xml
