@@ -47,7 +47,7 @@ Tutte le fonti dati utilizzate sono pubbliche e open access (ISTAT, BES, Eurosta
 
 ## Bibliografia e citazioni
 
-La bibliografia del sito è un unico file BibTeX gestito da Zotero: `bib/CRP_osservatorio.bib`. È dichiarato in `_quarto.yml` con path relativo al project root, quindi viene ereditato automaticamente da tutti i post e dalle pagine.
+La bibliografia del sito è un unico file BibTeX gestito da Zotero: `bib/CRP_blog.bib`. È dichiarato in `_quarto.yml` con path relativo al project root, quindi viene ereditato automaticamente da tutti i post e dalle pagine.
 
 **Regola:** non dichiarare `bibliography:` nel YAML locale dei post — lascia che erediti dal `_quarto.yml`. Se proprio serve un override locale, usa sempre un path relativo al project root (`bibliography: bib/altro.bib`), **mai** relativo al file
 (`../../bib/...`): spezza `citr` e altri strumenti R. 

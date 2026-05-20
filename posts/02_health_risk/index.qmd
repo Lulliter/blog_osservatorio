@@ -5,7 +5,7 @@ date: "2026-04-19"
 draft: TRUE
 tipo: Spot                                  # un solo tipo articolo (es: report, news, ...)
 categories: [salute pubblica, pazienti alto rischio, medicina d'iniziativa]    # i temi → pill cliccabili standard Quarto + filtro sidebar
-#bibliography: bib/CRP_osservatorio.bib
+#bibliography: bib/CRP_blog.bib
 ---
 
 ::: {.post-tipo-badge}

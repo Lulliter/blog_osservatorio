@@ -19,7 +19,7 @@ Il 6 maggio 2026, l'**Osservatorio Long Term Care (OLTC)** del CERGAS (Centro di
 
 I lavori sono iniziati dalla fotografia del settore LTC in Italia, che riflette alcuni trend noti della domanda: 
 
-1. l'invecchiamento della popolazione, con conseguente aumento di persone anziane non autosufficienti  [oltre 4 milioni di anziani non autosufficienti in Italia ovvero il 28,4% // ## in Emilia Romagna ]{style="color: red;"}
+1. l'invecchiamento della popolazione, con conseguente aumento di persone anziane non autosufficienti - oltre 4 milioni in Italia ovvero il 28,4% <!-- // ## in Emilia Romagna ]{style="color: red;"} -->
 2. l'indebolimento delle reti familiari con il forte rischio di isolamento
 3. i vincoli strutturali delle risorse pubbliche, sia economiche che professionali -- la spesa pubblica per la Long Term Care è scesa all’1,18% del PIL (dal 1,43% nel 2020)
 
@@ -41,13 +41,13 @@ Per altro, la riforma avviata nel 2022, ha visto la pubblicazione del D.Lgs. n°
 
 
 ## Casi di studio 
-A seguire, la presentazione e il dibattito si sono centrati su alcune soluzioni innovative collocate in 2 ambiti specifici: 1) modelli di **abitare per l'invecchiamento** e 2) delle **piattaforme tecnologiche innovative**. I casi di studio includono modelli come: "dementia villages", residenze di co-housing intergenerazionale, infermiere di quartiere, piattaforme per il case worker online.  
+A seguire, la presentazione e il dibattito si sono centrati su alcune soluzioni innovative collocate in 2 ambiti: 1) modelli di **abitare per l'invecchiamento** e 2) delle **piattaforme tecnologiche innovative**. I casi di studio includono modelli come: "dementia villages", residenze di co-housing intergenerazionale, infermiere di quartiere, piattaforme per il _case worker_ online.  
 
 Per ciascuno dei modelli illustrati, sono stati evidenziati punti di forza e criticità, inquadramento e sostenibilità economica nel contesto assistenziale specifico.
 
-[Qui verranno le slide LINK]{style="color: red;"}
+![Casi di studio illustrati nel Rapporto](excerpt_casi.png)
  
-Dalla discussione dei casi e nelle conclusioni sono emersi alcuni importanti spunti di lavoro: 
+Dalla discussione dei casi e dalle conclusioni sono emersi alcuni importanti spunti di lavoro: 
 
 + C'è grande spazio per sperimentare risposte progressive - anche creative - a un bisogno crescente ma estremamente multiforme. Anche i casi di successo sono frutto di sperimentazione e processi di _trial & error_
 + La relazione e la comunità sono fattori fondamentali - lo stesso anziano non-autosufficiente è protagonista della risposta.
@@ -64,11 +64,10 @@ Manca un sistema informativo integrato (sociale + sanitario), con possibile dupl
     + dati spesa sociale dei comuni
     + ospiti dei presidi socio-assistenziali
 + [`Badantato`] Inps dati sul lavoro domestico, Osservatorio Domina
-+ [`Spesa pubblica su  LTC`] Ragioneria dello Stato, report annuale "Le tendenze del medio-lungo periodo del sistema pensionistico e socio-sanitario"
++ [`Spesa pubblica su LTC`] Ragioneria dello Stato, report annuale "Le tendenze del medio-lungo periodo del sistema pensionistico e socio-sanitario"
 
 ## Materiali
 
 - [{{< fa file-pdf >}} Agenda della giornata — PDF](agenda_cergas_6mag2026.pdf)
+- [{{< fa file-pdf >}} Presentazioni dei relatori — PDF](OLTC_LTC_in_trasformazione_casa_servizi_e_comunita.pdf)
 
-
-## Riferimenti bibliografici

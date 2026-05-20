@@ -1,7 +1,7 @@
 ---
 title: ""
 subtitle: "Fondazione Cariparma"
-bibliography: bib/CRP_osservatorio.bib
+bibliography: bib/CRP_blog.bib
 ---
 
 ⚠️ in construzione ⚠️ 

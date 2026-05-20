@@ -1,6 +1,6 @@
 ---
 title: "Blog Ideas"
-bibliography: bib/CRP_osservatorio.bib
+bibliography: bib/CRP_blog.bib
 suppress-bibliography: false
 ---
 
